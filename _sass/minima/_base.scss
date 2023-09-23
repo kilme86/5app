@@ -93,7 +93,7 @@ ul, ol {
 li {
   > ul,
   > ol {
-    margin-bottom: 0;
+    margin-bottom: 5;
   }
 }
 
@@ -145,7 +145,7 @@ blockquote {
   font-style: italic;
 
   > :last-child {
-    margin-bottom: 0;
+    margin-bottom: 5;
   }
 
   i, em {
@@ -233,8 +233,8 @@ pre {
   color: #f66a0a;
 }
 
-.grey {
-  color: #828282;
+.red {
+  color: #FF0000;
 }
 
 .svg-icon {
